@@ -1,6 +1,11 @@
 {
   "version": 2,
   "projects": {
+    "app2": "apps/app2",
+    "app2-e2e": "apps/app2-e2e",
+    "main-app": "apps/main-app",
+    "main-app-e2e": "apps/main-app-e2e",
+    "shared": "libs/shared",
     "todo": "apps/todo",
     "todo-e2e": "apps/todo-e2e"
   }
